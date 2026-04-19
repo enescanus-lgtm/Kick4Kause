@@ -1,0 +1,51 @@
+{
+  "weekdays": [
+    {
+      "day": "Monday, Aug 4",
+      "blocks": [
+        {
+          "time": "9:00 AM – 12:00 PM",
+          "label": "Summer camp on the grass field — age-appropriate coaching, teamwork, and scrimmages."
+        }
+      ]
+    },
+    {
+      "day": "Tuesday, Aug 5",
+      "blocks": [
+        {
+          "time": "9:00 AM – 12:00 PM",
+          "label": "Summer camp on the grass field — age-appropriate coaching, teamwork, and scrimmages."
+        }
+      ]
+    },
+    {
+      "day": "Wednesday, Aug 6",
+      "blocks": [
+        {
+          "time": "9:00 AM – 12:00 PM",
+          "label": "Summer camp on the grass field — age-appropriate coaching, teamwork, and scrimmages."
+        }
+      ]
+    },
+    {
+      "day": "Thursday, Aug 7",
+      "blocks": [
+        {
+          "time": "9:00 AM – 12:00 PM",
+          "label": "Summer camp on the grass field — age-appropriate coaching, teamwork, and scrimmages."
+        }
+      ]
+    },
+    {
+      "day": "Friday, Aug 8",
+      "blocks": [
+        {
+          "time": "9:00 AM – 12:00 PM",
+          "label": "Summer camp on the grass field — age-appropriate coaching, teamwork, and scrimmages."
+        }
+      ]
+    }
+  ],
+  "sidebarTitle": "Location & cause",
+  "sidebarBody": "Leigh High School (grass field). All camp proceeds go to Xavier Jesuit School. Daily drop-ins are welcome at $40 per day. Pack cleats or turf shoes, shin guards, water, and sunscreen — we will share arrival and parking details after sign-up."
+}
