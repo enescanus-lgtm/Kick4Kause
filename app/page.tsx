@@ -41,7 +41,7 @@ const valueCards = [
   },
   {
     title: "Built for young players",
-    body: "Ideal for kids in elementary school through rising 6th graders — first-timers and returning players are all welcome on the grass at Leigh.",
+    body: "Ideal for kids in elementary school through rising 6th graders — first-timers and returning players are all welcome.",
     accent: "border-t-k4k-pop",
     sticker: "⚽",
   },
@@ -59,10 +59,8 @@ export default function HomePage() {
                 <span aria-hidden>👋</span> Hi, families!
               </p>
               <h1 className="mt-5 font-display text-4xl leading-[1.05] text-white sm:text-5xl lg:text-[3.35rem]">
-                Let&apos;s play with
-                <span className="mt-1 block text-k4k-sun drop-shadow-md">
-                  purpose!
-                </span>
+                A soccer camp where every kick is for a{" "}
+                <span className="text-k4k-sun drop-shadow-md">cause</span>
               </h1>
               <p className="mt-6 max-w-xl text-lg font-semibold leading-relaxed text-white/90">
                 Kick4Kause is a summer soccer camp dedicated to spreading passion
@@ -108,7 +106,7 @@ export default function HomePage() {
                 <div className="absolute inset-0 bg-gradient-to-tr from-k4k-forest/40 via-transparent to-k4k-sky/10" />
                 <div className="absolute bottom-0 left-0 right-0 border-t-[3px] border-k4k-sun/60 bg-k4k-forest/75 p-5 backdrop-blur-md">
                   <p className="text-base font-extrabold text-white">
-                    August 4–8 · 9:00 AM–12:00 PM · Leigh High School
+                    August 4–8 · 9:00 AM–12:00 PM
                   </p>
                   <p className="mt-1 text-sm font-semibold text-k4k-spring">
                     $150 per child · Drop-ins $40/day · Venmo @Spark912, PayPal, or
@@ -126,7 +124,7 @@ export default function HomePage() {
           <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
             <SectionHeading
               eyebrow="Why we exist"
-              title="Skills, teamwork, and heart — on the grass at Leigh"
+              title="Skills, teamwork, and heart"
               subtitle="Whether your child is just getting started or building on what they already know, we mix fundamentals, small-sided play, and plenty of encouragement."
             />
             <div className="k4k-card relative overflow-hidden p-8 sm:p-10">
